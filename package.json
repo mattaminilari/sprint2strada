@@ -1,0 +1,32 @@
+{
+  "name": "Strada-World",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon ./start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "pug": "^3.0.0",
+    "pug-bootstrap": "0.0.16"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "css-loader": "^5.0.2",
+    "exports-loader": "^2.0.0",
+    "node-sass": "^5.0.0",
+    "nodemon": "^2.0.7",
+    "postcss-loader": "^5.0.0",
+    "sass-loader": "^11.0.1",
+    "style-loader": "^2.0.0"
+  }
+}
